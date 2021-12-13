@@ -57,9 +57,6 @@ main{
     height: 80vh;  
 }
 
-
-
-
 p{
     margin-bottom: 0;
     margin-top: 1%;
@@ -97,7 +94,6 @@ p{
     top:50%;
     transform: translate(-50%,-50%);
 }
-
 
 .conteudotexto{
     color: #272424;

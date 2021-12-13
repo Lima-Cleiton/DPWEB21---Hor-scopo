@@ -2,7 +2,6 @@ function conteudoAries(){
     document.getElementById("modalaries").style.display = "block"
 }
 
-
 function fecharAries(){
     document.getElementById("modalaries").style.display = "none"
 }
@@ -10,7 +9,6 @@ function fecharAries(){
 function conteudoCancer(){
     document.getElementById("modalcancer").style.display = "block"
 }
-
 
 function fecharCancer(){
     document.getElementById("modalcancer").style.display = "none"
